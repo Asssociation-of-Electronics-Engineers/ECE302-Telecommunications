@@ -1,4 +1,4 @@
-# For companies like Airtel 5G, Jio 5G, Vodafone UK && Starlink
+# For companies like Airtel 5G, Vodafone UK && Starlink
 
 A curated list of telco resources and projects.
 Consult [awesome-5g](https://github.com/calee0219/awesome-5g) for 5G specific projects, which is probably more up to date on the matter than this one.
